@@ -32,6 +32,11 @@ public:
     void MA2() {
         cout << "Método MA2 executado" << endl;
     }
+
+    // Novo Método
+    void MA3() {
+        cout << "Alteracao a classe A partir do clone" << endl;
+    }
 };
 
 int main() {
