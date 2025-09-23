@@ -32,9 +32,13 @@ public:
     void MD2() {
         cout << "Método MD2 executado" << endl;
     }
-
+    
     void MD3() {
         cout << "Método MD3 executado" << endl;
+    }
+
+    void MD4() {
+        cout << "Método MD4 executado" << endl;
     }
 };
 
