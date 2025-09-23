@@ -32,6 +32,10 @@ public:
     void MC2() {
         cout << "Método MC2 executado" << endl;
     }
+
+    void MC3() {
+        cout << "Método MC3 executado" << endl;
+    }
 };
 
 int main() {
